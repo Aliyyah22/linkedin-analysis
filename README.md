@@ -22,4 +22,4 @@ After getting my LinkedIn dataset from linkedIn I decided to visualise the follo
 9. Total connections ny positions
 
 ## Screenshot of PowerBI report
-!(This is how my LinkedIn report looks like)(./pics/linkedinreport.jpeg)
+![linkedinreport](https://user-images.githubusercontent.com/103380162/222748010-1c2b243f-58ff-4489-b34c-899abce83caa.jpeg)
