@@ -1,5 +1,5 @@
 # Linkedin-analysis
-This repository shows how I analysed my linkedIn data using powerBI
+This repository shows how I analysed my linkedIn data using PowerBI
 
 ## Git-Github-Azubi-Final-Assignment
 This hosts the second out of 3 project from the final Azubi Github program that teaches how to use Github.
@@ -20,3 +20,6 @@ After getting my LinkedIn dataset from linkedIn I decided to visualise the follo
 7. Total connections by month
 8. Total connections by company
 9. Total connections ny positions
+
+## Screenshot of PowerBI report
+!(This is how my LinkedIn report looks like)(./pics/linkedinreport.jpeg)
